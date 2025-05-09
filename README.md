@@ -16,26 +16,19 @@ You'll have to use Databricks and PySpark to conduct this EDA. Particularly, you
 The dataset is available in our S3 bucket at the following url: s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json.
 
 # How I answered :
-### Analysis at the "macro" level
-link to the Databricks notebook : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1766541244398891/3062825961113241/1352941473034176/latest.html
+Market Overview
 
-    - Which publisher has released the most games on Steam?
-    - What are the best rated games?
-    - Are there years with more releases? Were there more or fewer game releases during the Covid, for example?
-    - How are the prizes distributed? Are there many games with a discount?
-    - What are the most represented languages?
-    - Are there many games prohibited for children under 16/18?
+    1.1. Game Release Trends: Volume and Evolution Over Time
+    1.2. Genre Performance: Profitability and Ratings by Genre
+    1.3. Pricing Analysis: Impact on Ratings and Player Count, Discount Trends
+    1.4. Audience Insights: Age Restrictions, Language Availability, Platform Preferences
 
-### Genres analysis
+Key Player Analysis
 
-    - What are the most represented genres?
-    - Are there any genres that have a better positive/negative review ratio?
-    - Do some publishers have favorite genres?
-    - What are the most lucrative genres?
+    2.1. Leading Developers: Game Volume, Ratings, Player Base, Pricing Strategies, Platform Focus, and Profitability
+    2.2. Top-Rated Games: Genre, Pricing, Languages, Platforms, and Player Numbers
+    2.3. Most Popular Games: Player Preferences by Genre and Price
 
-### Platform analysis
-
-    - Are most games available on Windows/Mac/Linux instead?
-    - Do certain genres tend to be preferentially available on certain platforms?
 
 ### Main insights :
+link to the Databricks notebook : https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1766541244398891/3062825961113241/1352941473034176/latest.html
