@@ -25,9 +25,9 @@ Market Overview
 
 Key Player Analysis
 
-    2.1. Leading Developers: Game Volume, Ratings, Player Base, Pricing Strategies, Platform Focus, and Profitability
-    2.2. Top-Rated Games: Genre, Pricing, Languages, Platforms, and Player Numbers
-    2.3. Most Popular Games: Player Preferences by Genre and Price
+    2.1. Leading publishers: Volume of games release analysis
+    2.2. Most Popular Games: Player Preferences by Genre and Price
+    2.3. Top-Rated Games: Genre, Pricing and Player Numbers
 
 
 ### Main insights :
