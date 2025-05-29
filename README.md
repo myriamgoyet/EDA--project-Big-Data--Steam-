@@ -1,4 +1,4 @@
-# EDA with Big Data : Steam project
+# ANALYSIS OF VIDEO GAME MARKET WITH BIG DATA
 
 Fictive project completed as part of my Data Science Fullstack training at Jedha (Paris).
 
